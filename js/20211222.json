@@ -1,0 +1,101 @@
+[
+  {
+    "id": "001",
+    "img": "../img/EN/Gura/Gawr_Gura.png",
+    "height": "157cm",
+    "birthday": "6/20",
+    "design": "甘城なつき",
+    "title": "<a href=https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g target=_blank >Gawr_Gura</a>",
+    "herf": "detal/Gura.html"
+  },
+  {
+    "id": "002",
+    "img": "../img/EN/Ina/ina3.jpg",
+    "height": "157cm",
+    "birthday": "5/20",
+    "design": "黑星紅白",
+    "title": "<a href=https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg target=_blank >Ninomae Ina nis</a>",
+    "herf": "detal/Ina.html"
+  },
+  {
+    "id": "003",
+    "img": "../img/EN/Amy/unnamed.jpg",
+    "height": "157cm",
+    "birthday": "1/6",
+    "design": "なび",
+    "title": "<a href=https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg target=_blank >Watson Amelia</a>",
+    "herf": "detal/Amelia.html"
+  },
+  {
+    "id": "004",
+    "img": "../img/EN/Calli/Mori_Calliope_Portrait.png",
+    "height": "157cm",
+    "birthday": "4/4",
+    "design": "ゆきさめ",
+    "title": "<a href=https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg target=_blank >Mori Calliope</a>",
+    "herf": "detal/Calliope.html"
+  },
+  {
+    "id": "005",
+    "img": "../img/EN/Kiara/Takanashi_Kiara_Portrait.png",
+    "height": "157cm",
+    "birthday": "7/6",
+    "design": "huke",
+    "title": "<a href=https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww target=_blank >Takanashi Kiara</a>",
+    "herf": "detal/Kiara.html"
+  },
+  {
+    "id": "006",
+    "img": "../img/EN/IRyS/IRyStitle.jpg",
+    "height": "166cm",
+    "birthday": "3/7",
+    "design": "<a href=https://twitter.com/shiru target=_blank >redjuice</a>",
+    "title": "<a href=https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g/featured target=_blank >IRyS</a>",
+    "herf": "detal/IRyS.html"
+  },
+  {
+    "id": "007",
+    "img": "../img/EN/Mumei/Nanashi Mumeititle.jpg",
+    "height": "156cm",
+    "birthday": "8/4",
+    "design": "<a href=https://twitter.com/azure_0608_sub target=_blank >あずーる</a>",
+    "title": "<a href=https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA/featured target=_blank >Nanashi Mumei</a>",
+    "herf": "detal/Mumei.html"
+  },
+  {
+    "id": "008",
+    "img": "../img/EN/Baelz/Hakos Baelztitle.jpg",
+    "height": "149cm",
+    "birthday": "2/29",
+    "design": "<a href=https://twitter.com/MegaJujube target=_blank >Jujube</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ target=_blank >Hakos Baelz</a>",
+    "herf": "detal/Baelz.html"
+  },
+  {
+    "id": "009",
+    "img": "../img/EN/Kronii/Ouro Kroniititle.jpg",
+    "height": "168cm",
+    "birthday": "5/14",
+    "design": "<a href=https://twitter.com/RatedKatzchen target=_blank >Kätzchen</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg target=_blank >Ouro Kronii</a>",
+    "herf": "detal/Kronii.html"
+  },
+  {
+    "id": "010",
+    "img": "../img/EN/Fauna/Ceres Faunatitle.jpg",
+    "height": "164cm",
+    "birthday": "5/21",
+    "design": "<a href=https://twitter.com/asagi_0398 target=_blank >遠坂あさぎ</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ/featured target=_blank >Ceres Fauna</a>",
+    "herf": "detal/Fauna.html"
+  },
+  {
+    "id": "011",
+    "img": "../img/EN/Sana/Tsukumo Sanatitle.jpg",
+    "height": "169cm",
+    "birthday": "6/10",
+    "design": "<a href=https://twitter.com/pakosun target=_blank >pako</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ/videos target=_blank >Tsukumo Sana</a>",
+    "herf": "detal/Sana.html"
+  }
+]

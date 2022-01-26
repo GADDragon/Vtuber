@@ -1,0 +1,164 @@
+[
+  {
+    "id": "001",
+    "img": "../img/JP/Sora/Soratitle.jpg",
+    "height": "160cm",
+    "birthday": "5/15",
+    "design": "<a href=https://twitter.com/I_ecakhi target=_blank >いかき</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg/featured target=_blank >SoraCh. ときのそらチャンネル</a>",
+    "herf": "detal/Sora.html"
+  },
+  {
+    "id": "002",
+    "img": "../img/JP/Roboco/Robocotitle.jpg",
+    "height": "154cm",
+    "birthday": "5/23",
+    "design": "<a href=https://twitter.com/kuromaru9 target=_blank >kuromaru9</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g target=_blank >Roboco Ch. - ロボ子</a>",
+    "herf": "detal/Roboco.html"
+  },
+  {
+    "id": "003",
+    "img": "../img/JP/Miko/Mikotitle.jpg",
+    "height": "152cm",
+    "birthday": "3/5",
+    "design": "田中雄一",
+    "title": "<a href=https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA target=_blank >Miko Ch. さくらみこ</a>",
+    "herf": "detal/Miko.html"
+  },
+  {
+    "id": "004",
+    "img": "../img/JP/Suisei/Suiseititle.jpg",
+    "height": "160cm",
+    "birthday": "3/22",
+    "design": "Suisei/<a href=https://twitter.com/_17meisai23 target=_blank >手島nari</a>",
+    "title": "<a href=https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A target=_blank >Suisei Channel/a>",
+    "herf": "detal/Suisei.html"
+  },
+  {
+    "id": "005",
+    "img": "../img/JP/Mel/Meltitle.jpg",
+    "height": "156cm",
+    "birthday": "10/31",
+    "design": "<a href=https://twitter.com/ayamy_garubinu target=_blank >あやみ</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw target=_blank >Mel Channel 夜空メルチャンネル</a>",
+    "herf": "detal/Mel.html"
+  },
+  {
+    "id": "006",
+    "img": "../img/JP/Aki/Akititle.jpg",
+    "height": "162cm",
+    "birthday": "2/17",
+    "design": "<a href=https://twitter.com/akitake_a target=_blank >安曇アキタケ</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA target=_blank >アキロゼ</a>",
+    "herf": "detal/Aki.html"
+  },
+  {
+    "id": "007",
+    "img": "../img/JP/HAACHAMA/HAACHAMAtitle.jpg",
+    "height": "154cm",
+    "birthday": "8/10",
+    "design": "<a href=https://twitter.com/haruyuki_nijyou target=_blank >はる雪</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA target=_blank >HAACHAMA Ch 赤井はあと</a>",
+    "herf": "detal/HAACHAMA.html"
+  },
+  {
+    "id": "008",
+    "img": "../img/JP/Matsuri/Matsurititle.jpg",
+    "height": "152cm",
+    "birthday": "7/22",
+    "design": "<a href=https://twitter.com/halllki target=_blank >皆村春樹</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA target=_blank >Matsuri Channel 夏色まつり</a>",
+    "herf": "detal/Matsuri.html"
+  },
+  {
+    "id": "009",
+    "img": "../img/JP/FBK/FBKtitle.jpg",
+    "height": "155cm",
+    "birthday": "10/5",
+    "design": "<a href=https://twitter.com/lemon_mito target=_blank >凪白みと</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg target=_blank >フブキCh。白上フブキ</a>",
+    "herf": "detal/FBK.html"
+  },
+  {
+    "id": "010",
+    "img": "../img/JP/Aqua/Aquatitle.jpg",
+    "height": "148cm",
+    "birthday": "12/1",
+    "design": "<a href=https://twitter.com/umaiyo_puyoman target=_blank >がおう</a>",
+    "title": "<a href=https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg target=_blank >Aqua Ch. 湊あくあ</a>",
+    "herf": "detal/Aqua.html"
+  },
+  {
+    "id": "011",
+    "img": "../img/JP/Shion/Shiontitle.jpg",
+    "height": "145cm",
+    "birthday": "12/8",
+    "design": "<a href=https://twitter.com/tam_u target=_blank >Tam-U</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw target=_blank >Shion Ch. 紫咲シオン</a>",
+    "herf": "detal/Shion.html"
+  },
+  {
+    "id": "012",
+    "img": "../img/JP/Ayame/Ayametitle.jpg",
+    "height": "152cm",
+    "birthday": "12/13",
+    "design": "<a href=https://twitter.com/nana_kaguraaa target=_blank >ななかぐら/カグラナナ</a>",
+    "title": "<a href=https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg target=_blank >Nakiri Ayame Ch. 百鬼あやめ</a>",
+    "herf": "detal/Ayame.html"
+  },
+  {
+    "id": "013",
+    "img": "../img/JP/Choco/Chocotitle.jpg",
+    "height": "165cm",
+    "birthday": "12/8",
+    "design": "<a href=https://twitter.com/shima_je target=_blank >きのと</a>",
+    "title": "<a href=https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg target=_blank >Choco Ch. 癒月ちょこ</a>",
+    "herf": "detal/Choco.html"
+  },
+  {
+    "id": "014",
+    "img": "../img/JP/Subaru/Subarutitle.jpg",
+    "height": "154cm",
+    "birthday": "7/2",
+    "design": "<a href=https://twitter.com/ui_shig target=_blank >しぐれうい</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA target=_blank >Subaru Ch. 大空スバル</a>",
+    "herf": "detal/Subaru.html"
+  },
+  {
+    "id": "015",
+    "img": "../img/JP/Mio/Miotitle.jpg",
+    "height": "165cm",
+    "birthday": "8/20",
+    "design": "<a href=https://twitter.com/AC______ target=_blank >泉彩　Izumi　Sai</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg target=_blank >Mio Channel 大神ミオ</a>",
+    "herf": "detal/Mio.html"
+  },
+  {
+    "id": "016",
+    "img": "../img/JP/Okayu/Okayutitle.jpg",
+    "height": "152cm",
+    "birthday": "2/22",
+    "design": "<a href=https://twitter.com/kami_shun0505 target=_blank >神岡ちろる</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw target=_blank >Okayu Ch. 猫又おかゆ</a>",
+    "herf": "detal/Okayu.html"
+  },
+  {
+    "id": "017",
+    "img": "../img/JP/Korone/Koronetitle.jpg",
+    "height": "156cm",
+    "birthday": "10/1",
+    "design": "<a href=https://twitter.com/fuka_hire target=_blank >フカヒレ</a>",
+    "title": "<a href=https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q target=_blank >Korone Ch. 戌神ころね</a>",
+    "herf": "detal/Korone.html"
+  },
+  {
+    "id": "018",
+    "img": "../img/JP/Pekora/Pekoratitle.jpg",
+    "height": "153cm",
+    "birthday": "1/12",
+    "design": "<a href=https://twitter.com/yuukihagure target=_blank >憂姫はぐれ</a>",
+    "title": "<a href=https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ target=_blank >Pekora Ch. 兎田ぺこら</a>",
+    "herf": "detal/Pekora.html"
+  }
+]

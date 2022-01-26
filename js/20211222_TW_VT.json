@@ -1,0 +1,47 @@
+[
+  {
+    "id": "001",
+    "img": "../img/AL/0/03.jpg",
+    "height": "160cm",
+    "birthday": "9/10",
+    "design": "<a href=https://twitter.com/jujube_midas?s=20 target=_blank >棗子Midas</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCkB-9YiqZp1IJIuNnRJWVQQ target=_blank >Rinnn Ch. 末代磷</a>",
+    "herf": "detal/0.html"
+  },
+  {
+    "id": "002",
+    "img": "../img/AL/moon/moontitle.jpg",
+    "height": "150cm",
+    "birthday": "10/10",
+    "design": "",
+    "title": "<a href=https://www.youtube.com/channel/UCns2dGkq1OusHQhh5_EicLg target=_blank >月子moonko🌙 易扁請注意ch.</a>",
+    "herf": "detal/moonko.html"
+  },
+  {
+    "id": "003",
+    "img": "../img/AL/jiedongsansedou/jiedongsansedoutitle.jpg",
+    "height": "160cm",
+    "birthday": "??",
+    "design": "",
+    "title": "<a href=https://www.youtube.com/c/jiedongsansedou/videos target=_blank >解凍三色豆Sansedou Ch.</a>",
+    "herf": "detal/jiedongsansedou.html"
+  },
+  {
+    "id": "004",
+    "img": "../img/AL/seikan/seikantitle.jpg",
+    "height": "164cm",
+    "birthday": "12/22",
+    "design": "<a href=https://twitter.com/Ashiun1812 target=_blank >阿勳Ashiun</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCzL1z9Mnr9Oba5ZjAqfa3lw target=_blank >Seikan Iris ch.星間菖蒲</a>",
+    "herf": "detal/seikantitle.html"
+  },
+  {
+    "id": "005",
+    "img": "../img/AL/Tsmatch/Tsmatchtitle.jpg",
+    "height": "155cm/(本體)5cm",
+    "birthday": "2/12",
+    "design": "<a href=https://twitter.com/TsuKonin_p target=_blank >@TsuKonin_p</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCXzEDlhV7wJuMY4c-Fvz7uQ/featured target=_blank >TSMATCH火柴</a>",
+    "herf": "detal/TSMATCH.html"
+  }
+]
