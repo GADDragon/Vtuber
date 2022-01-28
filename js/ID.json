@@ -1,0 +1,56 @@
+[
+  {
+    "id": "001",
+    "img": "../img/ID/Risu/Risu title.jpg",
+    "height": "153cm",
+    "birthday": "1/15",
+    "design": "<a href=https://twitter.com/8103x target=_blank >やとみ</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw target=_blank >Ayunda Risu</a>",
+    "herf": "detal/Risu.html"
+  },
+  {
+    "id": "002",
+    "img": "../img/ID/Moona/Moona title.jpg",
+    "height": "165cm",
+    "birthday": "2/15",
+    "design": "<a href=https://twitter.com/nyorinyori target=_blank >により</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg target=_blank >Moona Hoshinova</a>",
+    "herf": "detal/Moona.html"
+  },
+  {
+    "id": "003",
+    "img": "../img/ID/Airani/Airani title.jpg",
+    "height": "150cm",
+    "birthday": "7/15",
+    "design": "<a href=https://twitter.com/mituk1 target=_blank >夜ノみつき</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg/featured target=_blank >Airani Iofifteen</a>",
+    "herf": "detal/Airani.html"
+  },
+  {
+    "id": "004",
+    "img": "../img/ID/Ollie/Ollietitle.jpg",
+    "height": "162cm",
+    "birthday": "10/13",
+    "design": "<a href=https://twitter.com/mituk1 target=_blank >夜ノみつき</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ/featured target=_blank >Kureiji Ollie</a>",
+    "herf": "detal/Ollie.html"
+  },
+  {
+    "id": "005",
+    "img": "../img/ID/Anya/Anya title.jpg",
+    "height": "147cm",
+    "birthday": "1/12",
+    "design": "<a href=https://twitter.com/ekureea target=_blank >上倉エク</a>",
+    "title": "<a href=https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg target=_blank >Anya Melfissa</a>",
+    "herf": "detal/Anya.html"
+  },
+  {
+    "id": "006",
+    "img": "../img/ID/Reine/Reinetitle.jpg",
+    "height": "172cm",
+    "birthday": "9/8",
+    "design": "<a href=https://twitter.com/lizhi3 target=_blank >飯田ぽち。</a>",
+    "title": "<a href=https://www.youtube.com/channel/UCXzEDlhV7wJuMY4c-Fvz7uQ/featured target=_blank >Pavolia Reine </a>",
+    "herf": "detal/Reine.html"
+  }
+]
