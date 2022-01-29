@@ -4,7 +4,7 @@
     "img": "../img/EN/Gura/Gawr_Gura.png",
     "height": "157cm",
     "birthday": "6/20",
-    "design": "甘城なつき",
+    "design": "<a href=https://twitter.com/amsrntk3 target=_blank >甘城なつき</a>",
     "title": "<a href=https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g target=_blank >Gawr_Gura</a>",
     "herf": "detal/Gura.html"
   },
@@ -13,16 +13,16 @@
     "img": "../img/EN/Ina/ina3.jpg",
     "height": "157cm",
     "birthday": "5/20",
-    "design": "黑星紅白",
+    "design": "<a href=https://twitter.com/kuroboshi target=_blank >黑星紅白</a>",
     "title": "<a href=https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg target=_blank >Ninomae Ina nis</a>",
     "herf": "detal/Ina.html"
   },
   {
     "id": "003",
     "img": "../img/EN/Amy/unnamed.jpg",
-    "height": "157cm",
+    "height": "150 cm",
     "birthday": "1/6",
-    "design": "なび",
+    "design": "<a href=https://twitter.com/nab0i target=_blank >Nabi</a>",
     "title": "<a href=https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg target=_blank >Watson Amelia</a>",
     "herf": "detal/Amelia.html"
   },
@@ -31,7 +31,7 @@
     "img": "../img/EN/Calli/Mori_Calliope_Portrait.png",
     "height": "157cm",
     "birthday": "4/4",
-    "design": "ゆきさめ",
+    "design": "<a href=https://twitter.com/y_k_sme target=_blank >ゆきさめ</a>",
     "title": "<a href=https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg target=_blank >Mori Calliope</a>",
     "herf": "detal/Calliope.html"
   },
@@ -40,7 +40,7 @@
     "img": "../img/EN/Kiara/Takanashi_Kiara_Portrait.png",
     "height": "157cm",
     "birthday": "7/6",
-    "design": "huke",
+    "design": "<a href=https://twitter.com/hukeweb target=_blank >huke</a>",
     "title": "<a href=https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww target=_blank >Takanashi Kiara</a>",
     "herf": "detal/Kiara.html"
   },
@@ -75,7 +75,7 @@
     "id": "009",
     "img": "../img/EN/Kronii/Ouro Kroniititle.jpg",
     "height": "168cm",
-    "birthday": "5/14",
+    "birthday": "3/14",
     "design": "<a href=https://twitter.com/RatedKatzchen target=_blank >Kätzchen</a>",
     "title": "<a href=https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg target=_blank >Ouro Kronii</a>",
     "herf": "detal/Kronii.html"
@@ -84,7 +84,7 @@
     "id": "010",
     "img": "../img/EN/Fauna/Ceres Faunatitle.jpg",
     "height": "164cm",
-    "birthday": "5/21",
+    "birthday": "3/21",
     "design": "<a href=https://twitter.com/asagi_0398 target=_blank >遠坂あさぎ</a>",
     "title": "<a href=https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ/featured target=_blank >Ceres Fauna</a>",
     "herf": "detal/Fauna.html"
